@@ -1,4 +1,4 @@
-# Basic Converster Kg x Lb
+# Basic Converter Kg x Lb
 
 while True:
     try:
